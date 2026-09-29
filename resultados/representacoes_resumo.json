@@ -1,0 +1,27 @@
+{
+  "pares": [
+    {
+      "Par": "M003 × M017",
+      "BoW": 0.4008918628686365,
+      "TF-IDF": 0.3586058366142416,
+      "paraphrase-multilingual-MiniLM-L12-v2": 0.7939168214797974,
+      "distiluse-base-multilingual-cased-v2": 0.8336940407752991
+    },
+    {
+      "Par": "M008 × M022",
+      "BoW": 0.5003191829243043,
+      "TF-IDF": 0.49200830272214663,
+      "paraphrase-multilingual-MiniLM-L12-v2": 0.9214866757392883,
+      "distiluse-base-multilingual-cased-v2": 0.8561998605728149
+    },
+    {
+      "Par": "M008 × M031",
+      "BoW": 0.13561270072416207,
+      "TF-IDF": 0.033788581528422415,
+      "paraphrase-multilingual-MiniLM-L12-v2": 0.19840797781944275,
+      "distiluse-base-multilingual-cased-v2": 0.13074876368045807
+    }
+  ],
+  "intra_categoria": 0.45196810364723206,
+  "entre_categorias": 0.28096091747283936
+}

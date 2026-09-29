@@ -1,0 +1,96 @@
+{
+  "limiar": 0.85,
+  "percentil_90": 0.5019962191581726,
+  "pares": [
+    {
+      "id_a": "M008",
+      "id_b": "M022",
+      "similaridade": 0.9214867949485779
+    },
+    {
+      "id_a": "M005",
+      "id_b": "M026",
+      "similaridade": 0.8821443915367126
+    }
+  ],
+  "sensibilidade": [
+    {
+      "limiar": 0.5019962191581726,
+      "pares_detectados": 78,
+      "precision": 0.038461538461538464,
+      "recall": 1.0,
+      "F1": 0.07407407407407407
+    },
+    {
+      "limiar": 0.65,
+      "pares_detectados": 12,
+      "precision": 0.25,
+      "recall": 1.0,
+      "F1": 0.4
+    },
+    {
+      "limiar": 0.7,
+      "pares_detectados": 7,
+      "precision": 0.42857142857142855,
+      "recall": 1.0,
+      "F1": 0.6
+    },
+    {
+      "limiar": 0.75,
+      "pares_detectados": 5,
+      "precision": 0.6,
+      "recall": 1.0,
+      "F1": 0.7499999999999999
+    },
+    {
+      "limiar": 0.8,
+      "pares_detectados": 2,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "F1": 0.8
+    },
+    {
+      "limiar": 0.85,
+      "pares_detectados": 2,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "F1": 0.8
+    },
+    {
+      "limiar": 0.9,
+      "pares_detectados": 1,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "F1": 0.5
+    },
+    {
+      "limiar": 0.95,
+      "pares_detectados": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "F1": 0.0
+    }
+  ],
+  "avaliacao": {
+    "TP": [
+      [
+        "M005",
+        "M026"
+      ],
+      [
+        "M008",
+        "M022"
+      ]
+    ],
+    "FP": [],
+    "FN": [
+      [
+        "M003",
+        "M017"
+      ]
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "F1": 0.8
+  }
+}

@@ -1,0 +1,23 @@
+id,chunk,inicio,caracteres,texto
+M016,1,0,127,"Na Unidade de Saúde Vila Nova, o agendamento de exames tem sido interrompido porque o sistema fica indisponível durante a manhã"
+M016,2,127,237,". Cheguei às seis horas em dois dias diferentes e, após esperar por horas, fui orientado a voltar sem receber protocolo. Outras pessoas na fila relataram a mesma dificuldade, inclusive moradores que dependem de transporte de outro bairro"
+M016,3,364,124,". Não estou reclamando da consulta com o médico, que ocorreu normalmente; o problema está na marcação dos exames solicitados"
+M016,4,488,145,. Peço que a gestão informe uma alternativa de agendamento quando houver falha do sistema e organize uma lista com os pacientes que já aguardavam
+M016,5,633,104,. Também precisamos de informações claras no balcão para evitar deslocamentos repetidos sem atendimento.
+M040,1,0,129,"Na margem do açude do bairro Campo, apareceram sacos com restos de construção e pedaços de móveis durante as últimas duas semanas"
+M040,2,129,231,". O descarte fica próximo ao caminho usado pelos moradores para caminhar, e parte do material já desceu até a água depois da chuva. A comunidade retirou pequenas embalagens, mas não tem equipamento para transportar o entulho pesado"
+M040,3,360,99,. Solicitamos recolhimento do material e fiscalização para identificar a origem dos novos descartes
+M040,4,459,145,". Também pedimos orientação sobre o local correto para entregar móveis e resíduos de pequenas reformas, pois falta informação acessível no bairro"
+M040,5,604,132,". A limpeza precisa incluir a margem e o caminho, evitando que o material restante volte a ser levado para o açude na próxima chuva."
+M024,1,0,238,"Na Escola Municipal Caminhos, a merenda tem sido servida com atraso e em quantidade insuficiente para a última turma do período da tarde. Minha filha e outros estudantes disseram que em três dias receberam somente parte do lanche previsto"
+M024,2,238,106,". Ao conversar com a escola, fomos informados de que a entrega de alguns alimentos ainda não havia chegado"
+M024,3,344,230,. Pedimos que a secretaria verifique a regularidade do fornecimento e apresente uma solução para que todas as turmas recebam a refeição. Também solicitamos a divulgação do cardápio semanal e de um canal para comunicar novas faltas
+M024,4,574,159,". A intenção é acompanhar o serviço e evitar que crianças fiquem sem alimentação durante as aulas, sem expor nomes de estudantes ou de trabalhadores da escola."
+M010,1,0,213,"Na Rua dos Ipês, entre os números 200 e 260, a rede de drenagem não consegue escoar a água quando chove. Na última chuva, a água entrou em três casas e cobriu a rampa usada por uma moradora com mobilidade reduzida"
+M010,2,213,236,". Os bueiros estão cheios de folhas, terra e embalagens, mas o problema parece continuar mesmo quando retiramos os resíduos da superfície. Já registramos pedido de limpeza na semana anterior e ainda não recebemos uma data de atendimento"
+M010,3,449,196,". Precisamos de vistoria da tubulação, limpeza dos bueiros e informação sobre a previsão do serviço. O trecho fica próximo à escola do bairro, e as crianças atravessam a água para chegar ao portão"
+M010,4,645,75,. Pedimos que a equipe sinalize a área enquanto o reparo não for concluído.
+M033,1,0,110,"Na saída do terminal do bairro Central, o fluxo de veículos tem colocado pedestres em risco no começo da noite"
+M033,2,110,139,". Motoristas estacionam sobre a faixa de travessia e alguns ônibus param longe da calçada, obrigando passageiros a caminhar entre os carros"
+M033,3,249,225,". Na terça-feira, uma pessoa com carrinho de bebê precisou esperar no meio da via porque não havia passagem livre. Não se trata de solicitação de obra na calçada, mas de fiscalização do uso do espaço e organização das paradas"
+M033,4,474,233,. Pedimos a presença de agentes nos horários de maior movimento e orientação às empresas de transporte. Também seria útil sinalizar o ponto correto de embarque e manter a faixa desobstruída para quem precisa atravessar com segurança.

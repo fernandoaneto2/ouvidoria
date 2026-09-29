@@ -1,0 +1,99 @@
+{
+  "configuracoes": [
+    {
+      "chunk_size": 240,
+      "chunk_overlap": 0,
+      "n_chunks": 22,
+      "cosseno_adjacente": 0.44927214611979094,
+      "overlap_efetivo_medio": 0.0,
+      "cosseno_mesma_manifestacao": 0.42470489912911463,
+      "cosseno_outras_manifestacoes": 0.25855523984338796
+    },
+    {
+      "chunk_size": 240,
+      "chunk_overlap": 60,
+      "n_chunks": 22,
+      "cosseno_adjacente": 0.44927214611979094,
+      "overlap_efetivo_medio": 0.0,
+      "cosseno_mesma_manifestacao": 0.42470489912911463,
+      "cosseno_outras_manifestacoes": 0.25855523984338796
+    },
+    {
+      "chunk_size": 400,
+      "chunk_overlap": 80,
+      "n_chunks": 10,
+      "cosseno_adjacente": 0.6069864392280578,
+      "overlap_efetivo_medio": 0.0,
+      "cosseno_mesma_manifestacao": 0.6069864392280578,
+      "cosseno_outras_manifestacoes": 0.37592738494277
+    }
+  ],
+  "exemplos": [
+    {
+      "configuracao": [
+        240,
+        0
+      ],
+      "exemplo": [
+        {
+          "id": "M016",
+          "chunk": 1,
+          "inicio": 0,
+          "caracteres": 127,
+          "texto": "Na Unidade de Saúde Vila Nova, o agendamento de exames tem sido interrompido porque o sistema fica indisponível durante a manhã"
+        },
+        {
+          "id": "M016",
+          "chunk": 2,
+          "inicio": 127,
+          "caracteres": 237,
+          "texto": ". Cheguei às seis horas em dois dias diferentes e, após esperar por horas, fui orientado a voltar sem receber protocolo. Outras pessoas na fila relataram a mesma dificuldade, inclusive moradores que dependem de transporte de outro bairro"
+        }
+      ]
+    },
+    {
+      "configuracao": [
+        240,
+        60
+      ],
+      "exemplo": [
+        {
+          "id": "M016",
+          "chunk": 1,
+          "inicio": 0,
+          "caracteres": 127,
+          "texto": "Na Unidade de Saúde Vila Nova, o agendamento de exames tem sido interrompido porque o sistema fica indisponível durante a manhã"
+        },
+        {
+          "id": "M016",
+          "chunk": 2,
+          "inicio": 127,
+          "caracteres": 237,
+          "texto": ". Cheguei às seis horas em dois dias diferentes e, após esperar por horas, fui orientado a voltar sem receber protocolo. Outras pessoas na fila relataram a mesma dificuldade, inclusive moradores que dependem de transporte de outro bairro"
+        }
+      ]
+    },
+    {
+      "configuracao": [
+        400,
+        80
+      ],
+      "exemplo": [
+        {
+          "id": "M016",
+          "chunk": 1,
+          "inicio": 0,
+          "caracteres": 364,
+          "texto": "Na Unidade de Saúde Vila Nova, o agendamento de exames tem sido interrompido porque o sistema fica indisponível durante a manhã. Cheguei às seis horas em dois dias diferentes e, após esperar por horas, fui orientado a voltar sem receber protocolo. Outras pessoas na fila relataram a mesma dificuldade, inclusive moradores que dependem de transporte de outro bairro"
+        },
+        {
+          "id": "M016",
+          "chunk": 2,
+          "inicio": 364,
+          "caracteres": 373,
+          "texto": ". Não estou reclamando da consulta com o médico, que ocorreu normalmente; o problema está na marcação dos exames solicitados. Peço que a gestão informe uma alternativa de agendamento quando houver falha do sistema e organize uma lista com os pacientes que já aguardavam. Também precisamos de informações claras no balcão para evitar deslocamentos repetidos sem atendimento."
+        }
+      ]
+    }
+  ]
+}

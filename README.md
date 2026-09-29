@@ -44,10 +44,16 @@ projeto. Corrigiu-se o uso de stop_words="portuguese", não aceito pelo scikit-l
 e o caso de apenas um chunk nas projeções.
 
 ## Estado da entrega
-A base é sintética, autorizada pelo usuário, no esquema do enunciado. Há 40 registros, cinco textos longos e três pares de duplicatas. Os três notebooks contêm código completo, mas **ainda não têm saídas executadas**. O download do segundo modelo falhou. Não existem métricas finais de duplicatas ou chunking. O relatório é de implementação e pendências, não de resultados experimentais. Consulte CONTINUIDADE.md.
+A base é sintética, autorizada pelo solicitante, no esquema do enunciado: 40 registros, cinco textos
+longos e três pares de duplicatas (ver PROVENIENCIA.json). Os três notebooks foram executados de ponta a
+ponta com os dois modelos reais e gravam CSVs, figuras e resumos JSON em `resultados/`. Com o limiar
+0,85 (MiniLM), a detecção de duplicatas obteve 2 verdadeiros positivos, 0 falsos positivos e 1 falso
+negativo (precisão 1,0; recall 0,667; F1 0,8). RELATORIO.pdf apresenta esses resultados, a análise de
+sensibilidade do limiar e a comparação das três configurações de chunking.
 
 ## Testes
 Execute `python testes.py`. Os testes de lógica não baixam modelos.
 
 ## GitHub
-Versione este diretório, incluindo relatório e, na Ouvidoria, dados e notebooks. Não envie ambientes virtuais nem pesos de modelos.
+Este diretório está versionado com código, relatório, dados, notebooks executados e a pasta `resultados/`.
+Ambientes virtuais e pesos de modelos não são versionados (ver `.gitignore`).
