@@ -1,0 +1,23 @@
+{
+  "tipo": "sintetica",
+  "descricao": "Base demonstrativa sintética criada para o exercício, com autorização do usuário. Não corresponde a manifestações reais nem à base original do professor. Os resultados e o gabarito se aplicam apenas a estes 40 exemplos.",
+  "registros": 40,
+  "campos": [
+    "id",
+    "data",
+    "categoria_oficial",
+    "texto"
+  ],
+  "textos_longos": [
+    "M010",
+    "M016",
+    "M024",
+    "M033",
+    "M040"
+  ],
+  "criterio_duplicata": "Mesmo evento, endereço e período. Gabarito exaustivo definido na construção da base; tema semelhante, isoladamente, não é duplicata.",
+  "pares_duplicados": 3,
+  "registros_em_pares_duplicados": 6,
+  "percentual_registros_duplicados": 15,
+  "observacao": "Três pares disjuntos abrangem seis registros (15%); as três cópias além do primeiro relato equivalem a 7,5%. O enunciado não define o denominador, por isso a convenção é explícita."
+}

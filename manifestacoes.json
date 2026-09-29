@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-09-01",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua das Flores, perto do número 120, está quebrada e impede a passagem de cadeiras de rodas. Peço o reparo do passeio e da rampa de acesso."
+  },
+  {
+    "id": "M002",
+    "data": "2026-09-01",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal Esperança está sem professor de matemática no oitavo ano desde o início do mês. Os alunos ficam sem aula e precisamos de um substituto."
+  },
+  {
+    "id": "M003",
+    "data": "2026-09-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há um buraco enorme na Av. Brasil, a avenida principal do bairro Centro, em frente à padaria Pão Bom. Ele surgiu nesta semana e já fez dois carros desviarem para a contramão."
+  },
+  {
+    "id": "M004",
+    "data": "2026-09-02",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores relatam furtos de bicicletas junto ao terminal de ônibus do bairro Norte, principalmente entre 18h e 20h. Solicitamos rondas no local durante esse horário."
+  },
+  {
+    "id": "M005",
+    "data": "2026-09-03",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma pilha de pneus usados foi abandonada no terreno da Rua do Sol, ao lado do número 90. O material está acumulando água da chuva e precisa ser retirado."
+  },
+  {
+    "id": "M006",
+    "data": "2026-09-03",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro Lagoa está sem o medicamento de uso contínuo que retiro mensalmente. A farmácia informa falta de estoque há duas semanas e não apresenta previsão."
+  },
+  {
+    "id": "M007",
+    "data": "2026-09-04",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus escolar da zona rural chega depois do começo das aulas na Escola José de Souza. O atraso acontece todos os dias e prejudica a primeira atividade das crianças."
+  },
+  {
+    "id": "M008",
+    "data": "2026-09-04",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde São Lucas, na Rua das Acácias, está sem médico nesta semana. Fui à unidade pela manhã e não consegui consulta, pois não havia profissional para atender."
+  },
+  {
+    "id": "M009",
+    "data": "2026-09-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego atrás do mercado municipal está recebendo esgoto com cheiro forte. A água mudou de cor e os moradores pedem fiscalização do lançamento irregular."
+  },
+  {
+    "id": "M010",
+    "data": "2026-09-05",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Na Rua dos Ipês, entre os números 200 e 260, a rede de drenagem não consegue escoar a água quando chove. Na última chuva, a água entrou em três casas e cobriu a rampa usada por uma moradora com mobilidade reduzida. Os bueiros estão cheios de folhas, terra e embalagens, mas o problema parece continuar mesmo quando retiramos os resíduos da superfície. Já registramos pedido de limpeza na semana anterior e ainda não recebemos uma data de atendimento. Precisamos de vistoria da tubulação, limpeza dos bueiros e informação sobre a previsão do serviço. O trecho fica próximo à escola do bairro, e as crianças atravessam a água para chegar ao portão. Pedimos que a equipe sinalize a área enquanto o reparo não for concluído."
+  },
+  {
+    "id": "M011",
+    "data": "2026-09-06",
+    "categoria_oficial": "segurança",
+    "texto": "A faixa de pedestres da Avenida Leste, perto da creche, está apagada. Os motoristas não reduzem a velocidade na saída das crianças e precisamos de fiscalização de trânsito."
+  },
+  {
+    "id": "M012",
+    "data": "2026-09-06",
+    "categoria_oficial": "saúde",
+    "texto": "Minha solicitação de consulta com oftalmologista aparece sem atualização há quatro meses no sistema municipal. A unidade do bairro Sul não consegue informar a posição na fila."
+  },
+  {
+    "id": "M013",
+    "data": "2026-09-07",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A ponte de madeira que liga o bairro Riacho à feira apresenta tábuas soltas. Pedestres usam o trecho diariamente e há risco de queda nas aberturas do piso."
+  },
+  {
+    "id": "M014",
+    "data": "2026-09-07",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da Escola Municipal Horizonte permanece fechada durante o recreio e depois das aulas. Os estudantes pedem ampliação do horário para empréstimo de livros."
+  },
+  {
+    "id": "M015",
+    "data": "2026-09-08",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma árvore na Praça das Mangueiras está com um galho partido sobre o caminho dos pedestres. Solicito avaliação da equipe responsável e poda segura do galho."
+  },
+  {
+    "id": "M016",
+    "data": "2026-09-08",
+    "categoria_oficial": "saúde",
+    "texto": "Na Unidade de Saúde Vila Nova, o agendamento de exames tem sido interrompido porque o sistema fica indisponível durante a manhã. Cheguei às seis horas em dois dias diferentes e, após esperar por horas, fui orientado a voltar sem receber protocolo. Outras pessoas na fila relataram a mesma dificuldade, inclusive moradores que dependem de transporte de outro bairro. Não estou reclamando da consulta com o médico, que ocorreu normalmente; o problema está na marcação dos exames solicitados. Peço que a gestão informe uma alternativa de agendamento quando houver falha do sistema e organize uma lista com os pacientes que já aguardavam. Também precisamos de informações claras no balcão para evitar deslocamentos repetidos sem atendimento."
+  },
+  {
+    "id": "M017",
+    "data": "2026-09-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal do Centro, chamada Avenida Brasil, diante da padaria Pão Bom. É a cratera que apareceu esta semana e obriga os carros a invadir a pista contrária."
+  },
+  {
+    "id": "M018",
+    "data": "2026-09-09",
+    "categoria_oficial": "segurança",
+    "texto": "Há motocicletas circulando sobre a calçada da Rua da Paz no fim da tarde. Idosos precisam sair do passeio e entrar na rua; peço fiscalização nesse trecho."
+  },
+  {
+    "id": "M019",
+    "data": "2026-09-10",
+    "categoria_oficial": "educação",
+    "texto": "Os ventiladores da sala do quinto ano da Escola Monteiro estão quebrados. A sala fica muito quente à tarde e os alunos têm dificuldade para acompanhar as atividades."
+  },
+  {
+    "id": "M020",
+    "data": "2026-09-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O caminhão de coleta não passa pela Travessa Verde há três dias. Sacos de lixo se acumulam na esquina com a Rua Sete, e animais estão espalhando os resíduos."
+  },
+  {
+    "id": "M021",
+    "data": "2026-09-11",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A praça do bairro Jardim precisa de uma rampa na entrada lateral. O acesso atual só tem degraus, o que impede o uso por pessoas em cadeira de rodas."
+  },
+  {
+    "id": "M022",
+    "data": "2026-09-04",
+    "categoria_oficial": "saúde",
+    "texto": "Está faltando atendimento no PSF São Lucas da Rua das Acácias nesta semana. Pela manhã, fui procurar uma consulta e avisaram que nenhum médico estava disponível naquela unidade."
+  },
+  {
+    "id": "M023",
+    "data": "2026-09-12",
+    "categoria_oficial": "segurança",
+    "texto": "O semáforo do cruzamento das ruas Nove e Dez permanece apagado desde ontem. Já presenciei duas situações de quase colisão e solicito intervenção do setor de trânsito."
+  },
+  {
+    "id": "M024",
+    "data": "2026-09-12",
+    "categoria_oficial": "educação",
+    "texto": "Na Escola Municipal Caminhos, a merenda tem sido servida com atraso e em quantidade insuficiente para a última turma do período da tarde. Minha filha e outros estudantes disseram que em três dias receberam somente parte do lanche previsto. Ao conversar com a escola, fomos informados de que a entrega de alguns alimentos ainda não havia chegado. Pedimos que a secretaria verifique a regularidade do fornecimento e apresente uma solução para que todas as turmas recebam a refeição. Também solicitamos a divulgação do cardápio semanal e de um canal para comunicar novas faltas. A intenção é acompanhar o serviço e evitar que crianças fiquem sem alimentação durante as aulas, sem expor nomes de estudantes ou de trabalhadores da escola."
+  },
+  {
+    "id": "M025",
+    "data": "2026-09-13",
+    "categoria_oficial": "saúde",
+    "texto": "O elevador do centro municipal de reabilitação está parado. Pacientes que usam muletas não conseguem chegar às salas do primeiro andar e precisam remarcar as sessões."
+  },
+  {
+    "id": "M026",
+    "data": "2026-09-03",
+    "categoria_oficial": "meio ambiente",
+    "texto": "No lote vazio da Rua do Sol, junto ao imóvel 90, deixaram vários pneus velhos empilhados. Eles estão cheios de água após a chuva. Peço que recolham esse descarte irregular."
+  },
+  {
+    "id": "M027",
+    "data": "2026-09-14",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O ponto de ônibus da Avenida Oeste perdeu a cobertura durante o vento forte de ontem. Passageiros ficam expostos ao sol e à chuva enquanto aguardam o transporte."
+  },
+  {
+    "id": "M028",
+    "data": "2026-09-14",
+    "categoria_oficial": "segurança",
+    "texto": "A quadra da Praça da Juventude recebe ameaças de um grupo que impede outros moradores de jogar à noite. Solicitamos presença da guarda e mediação no local."
+  },
+  {
+    "id": "M029",
+    "data": "2026-09-15",
+    "categoria_oficial": "educação",
+    "texto": "O banheiro acessível da Escola Municipal União é usado como depósito de materiais. Um aluno com deficiência não consegue utilizá-lo e a família pede a liberação do espaço."
+  },
+  {
+    "id": "M030",
+    "data": "2026-09-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma oficina na Rua das Pedras está queimando resíduos no fim do expediente. A fumaça entra nas casas vizinhas, e pedimos fiscalização da atividade."
+  },
+  {
+    "id": "M031",
+    "data": "2026-09-16",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A lâmpada está queimada na praça do bairro Bela Vista, junto ao banco de madeira e ao ponto de táxi. O local fica escuro à noite e solicito a troca da iluminação."
+  },
+  {
+    "id": "M032",
+    "data": "2026-09-16",
+    "categoria_oficial": "saúde",
+    "texto": "A sala de vacinação do posto do bairro Novo informa encerramento das senhas antes do horário divulgado. Quem sai do trabalho às dezesseis horas não consegue atendimento."
+  },
+  {
+    "id": "M033",
+    "data": "2026-09-17",
+    "categoria_oficial": "segurança",
+    "texto": "Na saída do terminal do bairro Central, o fluxo de veículos tem colocado pedestres em risco no começo da noite. Motoristas estacionam sobre a faixa de travessia e alguns ônibus param longe da calçada, obrigando passageiros a caminhar entre os carros. Na terça-feira, uma pessoa com carrinho de bebê precisou esperar no meio da via porque não havia passagem livre. Não se trata de solicitação de obra na calçada, mas de fiscalização do uso do espaço e organização das paradas. Pedimos a presença de agentes nos horários de maior movimento e orientação às empresas de transporte. Também seria útil sinalizar o ponto correto de embarque e manter a faixa desobstruída para quem precisa atravessar com segurança."
+  },
+  {
+    "id": "M034",
+    "data": "2026-09-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O abastecimento de água na Rua das Palmeiras é interrompido todas as noites e só retorna perto do almoço. Os moradores pedem vistoria da rede e aviso sobre as interrupções."
+  },
+  {
+    "id": "M035",
+    "data": "2026-09-18",
+    "categoria_oficial": "educação",
+    "texto": "A matrícula online na creche municipal não permite anexar o comprovante de residência. O portal retorna uma mensagem de erro e não oferece outro canal de inscrição."
+  },
+  {
+    "id": "M036",
+    "data": "2026-09-18",
+    "categoria_oficial": "saúde",
+    "texto": "A unidade de pronto atendimento do bairro Industrial está sem cadeiras suficientes na recepção. Pessoas com dor aguardam em pé, apesar de existir espaço para mais assentos."
+  },
+  {
+    "id": "M037",
+    "data": "2026-09-19",
+    "categoria_oficial": "segurança",
+    "texto": "O comércio da Rua Quinze bloqueia a saída de emergência do mercado com caixas. Peço fiscalização da passagem, pois ela deve permanecer livre para uma evacuação."
+  },
+  {
+    "id": "M038",
+    "data": "2026-09-19",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O parque municipal está sem recipientes para coleta seletiva na área de piquenique. Visitantes deixam embalagens misturadas e solicito instalação de lixeiras identificadas."
+  },
+  {
+    "id": "M039",
+    "data": "2026-09-20",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A iluminação da ciclovia da Avenida Mar está piscando em vários postes. O defeito ocorre no trecho perto da ponte e dificulta o trajeto dos ciclistas à noite."
+  },
+  {
+    "id": "M040",
+    "data": "2026-09-20",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Na margem do açude do bairro Campo, apareceram sacos com restos de construção e pedaços de móveis durante as últimas duas semanas. O descarte fica próximo ao caminho usado pelos moradores para caminhar, e parte do material já desceu até a água depois da chuva. A comunidade retirou pequenas embalagens, mas não tem equipamento para transportar o entulho pesado. Solicitamos recolhimento do material e fiscalização para identificar a origem dos novos descartes. Também pedimos orientação sobre o local correto para entregar móveis e resíduos de pequenas reformas, pois falta informação acessível no bairro. A limpeza precisa incluir a margem e o caminho, evitando que o material restante volte a ser levado para o açude na próxima chuva."
+  }
+]

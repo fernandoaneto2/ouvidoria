@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+.streamlit/secrets.toml
+.cache/
+modelos/
+*.safetensors
+*.pt
+*.pth
